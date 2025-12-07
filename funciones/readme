@@ -1,0 +1,11 @@
+
+---
+
+# 📁 **06_funciones/README.md**
+```markdown
+# Calculadora de Áreas  
+Programa modular que usa funciones para calcular el área de varias figuras.
+
+## ▶️ Cómo ejecutar
+```bash
+python calculadora_figuras.py

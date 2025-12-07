@@ -1,0 +1,14 @@
+
+---
+
+# 📁 **05_estructuras_de_datos/README.md**
+```markdown
+# Agenda de Contactos  
+Sistema interactivo que usa diccionarios para almacenar contactos.
+
+## 🎯 Objetivo
+Aplicar estructuras de datos en un caso práctico.
+
+## ▶️ Cómo ejecutar
+```bash
+python agenda_contactos.py

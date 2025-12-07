@@ -1,0 +1,11 @@
+
+---
+
+# 📁 **07_extra_validación/README.md**
+```markdown
+# Validador de Correo  
+Script que revisa la estructura básica de un correo electrónico.
+
+## ▶️ Cómo ejecutar
+```bash
+python validador_correo.py
