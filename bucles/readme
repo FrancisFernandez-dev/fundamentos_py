@@ -1,0 +1,16 @@
+
+---
+
+# 📁 **04_bucles/README.md**
+```markdown
+# Programas con Bucles  
+Incluye generación de tablas de multiplicar y cálculo de factorial.
+
+## 📄 Archivos
+- `tabla_multiplicar.py` → utiliza un bucle `for`  
+- `factorial.py` → utiliza un bucle `while`
+
+## ▶️ Cómo ejecutar
+```bash
+python tabla_multiplicar.py
+python factorial.py

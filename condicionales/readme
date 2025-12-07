@@ -1,0 +1,14 @@
+
+---
+
+# 📁 **03_condicionales/README.md**
+```markdown
+# Clasificación de Número  
+Determina si un número ingresado es positivo, negativo o cero utilizando condicionales.
+
+## 🎯 Objetivo
+Aplicar estructuras básicas de decisión en Python.
+
+## ▶️ Cómo ejecutar
+```bash
+python numero_positivo_negativo.py
