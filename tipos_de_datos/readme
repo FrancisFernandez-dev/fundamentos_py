@@ -1,0 +1,19 @@
+
+---
+
+# 📁 **02_tipos_de_datos/README.md**
+```markdown
+# Formulario de Usuario  
+Este programa solicita datos personales y los procesa aplicando distintos tipos de datos.
+
+## 🎯 Objetivo
+Comprender el manejo de strings, enteros, flotantes y booleanos.
+
+## 📄 Contenido
+- Captura de datos personales  
+- Conversión entre tipos  
+- Evaluación booleana de respuestas
+
+## ▶️ Cómo ejecutar
+```bash
+python formulario_usuario.py

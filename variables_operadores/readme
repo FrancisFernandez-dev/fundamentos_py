@@ -1,0 +1,15 @@
+# Conversor de Unidades  
+Este programa utiliza conceptos fundamentales de Python como variables, operadores y estructuras de control.
+
+## 🎯 Objetivo
+Demostrar el uso de operaciones matemáticas y estructuras básicas mediante un conversor interactivo.
+
+## 📄 Contenido
+- Conversión Celsius ↔ Fahrenheit  
+- Conversión kilómetros ↔ millas  
+- Conversión pesos chilenos ↔ dólares  
+- Condicionales `if`, `elif`, `else`
+
+## ▶️ Cómo ejecutar
+```bash
+python conversor_unidades.py
